@@ -1,0 +1,26 @@
+# LLM Evaluation Pipeline Dependencies
+
+# Core async HTTP client
+aiohttp>=3.9.0
+httpx>=0.25.0
+
+# OpenAI SDK for LLM-as-a-Judge
+openai>=1.0.0
+
+# Data handling
+pydantic>=2.0.0
+
+# CLI interface
+click>=8.1.0
+rich>=13.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tiktoken>=0.5.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Caching (optional for production)
+# redis>=5.0.0
