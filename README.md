@@ -1,6 +1,6 @@
 # LLM Evaluation Pipeline
 
-A Python-based evaluation pipeline for automatically testing AI response quality in real-time. Designed for BeyondChats to assess chatbot responses against relevance, hallucination, and performance metrics.
+A Python-based evaluation pipeline for automatically testing AI response quality in real-time. To assess chatbot responses against relevance, hallucination, and performance metrics.
 
 ## Features
 
